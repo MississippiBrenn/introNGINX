@@ -1,0 +1,3 @@
+[submodule "yt-nginx-mastery-series"]
+	path = yt-nginx-mastery-series
+	url = https://github.com/veryacademy/yt-nginx-mastery-series.git
